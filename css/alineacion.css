@@ -1,0 +1,13 @@
+.row{
+    height: 150px;
+    margin-top: 20px;
+    background: rgb(21, 219, 21);
+}
+
+.col{
+    background: red;
+    text-align: center;
+    padding: 10px;
+    border: 3px lightblue solid;
+   
+}
